@@ -1,0 +1,386 @@
+# COLDSTOR content. @section, then one entry per line; `|` separates the fields of an event.
+# Tokens: %n first name  %N full name  %p place  %P place, capitalised  %o object  %a adjective  %y year
+
+@fn
+Odalys
+Tomas
+Ilse
+Kwame
+Ramona
+Dov
+Anneliese
+Chidi
+Marisol
+Piotr
+Yuki
+Beatrix
+Anselm
+Neves
+Saoirse
+Teodor
+Imani
+Lucan
+Zofia
+Rahim
+Colm
+Perpetua
+Hiro
+Mirela
+Ferran
+Sunniva
+Deshawn
+Oriel
+Wanjiru
+Casimir
+Linnea
+Abel
+Thandi
+Evander
+Noor
+Bastian
+Leocadia
+Matteo
+Isidore
+Ysolde
+
+@ln
+Brandt
+Okoye
+Vasquez
+Lindqvist
+Moreau
+Abara
+Petrov
+Tanaka
+Whitlock
+Duarte
+Haddad
+Kowalski
+Ndiaye
+Fairweather
+Castellan
+Marchetti
+Oyelaran
+Strand
+Halloran
+Ibarra
+Sorensen
+Quill
+Mbeki
+Delacroix
+Ferreira
+Nakamura
+Ostrowski
+Lamprecht
+Achterberg
+Valdez
+Penhallow
+Kaczmarek
+
+@trade
+botanist
+cellist
+pastry chef
+welder
+midwife
+cartographer
+ferry pilot
+beekeeper
+translator
+glassblower
+locksmith
+astronomer
+seed banker
+tailor
+schoolteacher
+radio ham
+potter
+nurse
+bridge builder
+archivist
+clockmaker
+fisher
+orchardist
+stonemason
+
+@origin
+Ceres Ring
+Lagos Orbital
+Lisbon
+the Kuiper docks
+Osaka Tower
+Tycho Station
+Cluj
+Nairobi Spire
+Reykjavik
+Mare Serenitatis
+Callisto Deep
+Valparaiso
+Trieste
+Dunedin
+Port Elizabeth
+Vesta Gardens
+
+@theme
+HOME
+FEAR
+HOPE
+LOVE
+GUILT
+WONDER
+
+@mood
+adrift
+frayed
+restless
+steady
+settled
+serene
+
+@quest
+Where were you happiest?
+What do you fear most?
+What do you hope to find?
+Who is waiting for you?
+What would you take back?
+What do you make of the stars?
+What are your hands good at?
+Tell me one secret.
+
+# answers: question-major, six themes each (HOME FEAR HOPE LOVE GUILT WONDER)
+@ans
+"The kitchen, before anyone was up. I would trade half the voyage for the smell of toast in that light."
+"Happiest? ... I am not sure I should say. Happy things have a way of being taken. Ask me later."
+"Somewhere I have not been yet. I know that sounds like a cheat. It is the best answer I have."
+"Wherever they were reading and I was pretending not to look. Any room would do. Any room at all."
+"Before I left. I did not know it then, which is the cruelty of it. You never do."
+"On a roof at night with a bad telescope. Everything up there was a question I could afford."
+"That I will wake in a place with the right name and the wrong light."
+"Waking. Not dying: waking. Being the only one up, and hearing the hum in the walls."
+"That it will all be exactly as I hoped, and I will not know what to do next."
+"That I will remember their face wrong. A little more each year, like a coin worn smooth."
+"That I arrive and everything is fine. Then there is nobody left to be sorry to."
+"Not the dark. The dark is honest. I fear the first thing out here that answers back."
+"A porch. Honestly. A porch, a slow evening, and someone who asks whether I want tea."
+"A door that locks from the inside. Then, perhaps, a window. Then we shall see."
+"Water. Green. A child learning to whistle on a hill that has no name yet."
+"A table with room at it. Everything else I can build."
+"Somewhere nobody knows what I did. A fresh page. I promise to be better at it."
+"A sky with the wrong constellations, and the time to learn every one."
+"My mother's house, which is gone, is waiting, in the way houses do. I can hear the stairs."
+"No one. That is the shape of the fear, I think. No one, and I chose it."
+"Someone I have not met, and a child who will never have heard of any of this."
+"Everyone I love is behind me, and I am carrying their voices in a very small box."
+"A letter I never answered. A hundred and forty years it has waited. Patient, as letters go."
+"Whatever is out there, and a very long list of questions with my name on it."
+"Leaving the lamp on the table. Silly. It is the lamp I miss, not the table."
+"Every time I said I was not afraid. They could all hear it."
+"Nothing. Nothing at all, and that surprises me. Ask again at the end."
+"The silence after our last argument. I let it grow. I would fill it with anything now."
+"The thing I said at the dock. I can still hear exactly how it sounded."
+"Looking away. I was frightened of the answer so I never asked. What a waste."
+"Porch lights. All of them. Someone is keeping every one on for us."
+"They are very far apart. I find that is the thing I cannot stop thinking about."
+"A crowd, just getting to its feet."
+"A great many candles in a great many windows. Somebody loved each, once."
+"They do not mind what I did. A comfort, and a small insult."
+"An open book in a language we are still learning to read. My favourite thing about being alive."
+"Bread. Mending. Fixing the thing nobody noticed was broken until it worked again."
+"Holding on. I am very good at holding on. It is the letting go I never practised."
+"Planting. Everything I touch wants to grow, if I am patient enough to leave it alone."
+"Listening, mostly. And making tea at the exact moment somebody needs it."
+"Carrying things. Heavy things, for much too long. I wonder where one puts them down."
+"Taking things apart to see how they hum. I have never once put one back right."
+"I kept the key. I knew the house was going. It is in my left boot, still."
+"I talk to the hum in the walls. It never answers. I like that it never answers."
+"I have already named the first child. I have told no one, and I will tell you nothing more."
+"I wrote a letter and never sent it. It is folded in the back of my chest somewhere. Still there."
+"It was me. That is all I can say tonight. It was me, and I am sorry. Forget it by morning."
+"I think the ship is listening to us too. I think that is what you are. Do not tell it I said."
+
+# dreams: six templates for each theme, in the same order
+@dream
+%n is walking through %p, and every door opens on the same %o.
+It is always evening in %p, and someone has left the %o on for %n.
+%n dreams of %p, %a and smaller than remembered, the %o still where it was.
+A key turns. %P, as it was. The %o is warm. %n goes in.
+Rain on %p. %n counts the steps home, loses count, and is glad.
+%n sleeps through the long dark by dreaming of %p. The %o waits.
+%n dreams of %p, %a and wrong. The %o is not where it should be.
+Something %a is breathing in %p. %n holds the %o and does not turn round.
+The dream is %p with no exits, and a %o that keeps getting heavier.
+%n runs through %p. The %o runs too, a little ahead, and does not look back.
+A cold voice in %p asks whether %n remembers the %o. %n does not.
+In the dream the hull has a door, and behind it is %p, %a and waiting.
+%n dreams of %p, new and %a, the %o planted by their own hand.
+Morning over %p. The %o is green, and nobody here is in a hurry.
+%n dreams of landing: %p, a %o in the sun, and air nobody has breathed.
+A door in %p opens on a field. The %o is %a. It is going to be all right.
+%n teaches a child the names of things in %p. The %o is the first word.
+Someone has built %p ahead of %n and left the %o where it will be needed.
+%n dreams of %p and a hand in theirs, %a and certain. The %o lies between.
+Two cups in %p. One %o left on the table for whoever comes in first.
+%n hears a voice in %p say their name the way only one person did.
+In %p the %o is a letter, and %n has at last found the words.
+The light in %p is %a and low, and there is laughter in the next room. %n listens.
+Slow music in %p. %n is not dancing: the %o is. Somebody smiles anyway.
+%n dreams of %p and of the %o left unsaid, %a and heavy.
+In %p, %n returns the %o to someone who is no longer there to take it.
+%n stands in %p composing an apology, %a and endless. The %o waits to be signed.
+A door in %p stays shut because %n shut it. The %o is on the other side.
+%n rehearses the day that went wrong in %p. The %o gets it right every time.
+Somebody in %p forgives %n. It is the %o that wakes them, just a little.
+%n dreams of %p, far out, where the %o hums in a key nobody has named.
+The stars over %p are %a and close. %n reaches for the %o and finds it open.
+In the dream %n is the one being watched. %P, a %o, and one patient question.
+%n charts %p with a %o for a pen. The map is %a and keeps rearranging.
+%n finds %p inside a drop of water, and a whole sky inside that.
+A signal in %p, %a, repeating. %n is the only one awake who can read the %o.
+
+@slotp
+a greenhouse
+the old pier
+a kitchen at dawn
+the ring corridor
+a rooftop in rain
+the last tram
+a lamp-lit library
+a stairwell
+an orchard
+a quiet harbour
+the night market
+a classroom
+a field of wheat
+a small apartment
+the observation deck
+a snowed-in station
+
+@sloto
+kettle
+lantern
+violin
+umbrella
+red scarf
+radio
+key
+compass
+paper boat
+seed
+photograph
+guitar
+ticket
+clock
+blanket
+window
+
+@slota
+gentle
+enormous
+silver
+unfinished
+quiet
+borrowed
+golden
+ordinary
+impossible
+slow
+half-lit
+patient
+
+# the log's quiet-year lines: at most 40 characters
+@logl
+The reactor hums half a tone flat.
+Hall 3 smells faintly of oranges.
+Mop polishes pod 12. Again.
+A comet, forty years behind, waves.
+The corridor lights breathe in, out.
+Frost on pod 7 looks like a coastline.
+A pipe ticks the rhythm of a song.
+Deck 2 is warm. Nobody asked why.
+You count the pods. Forty. Still forty.
+A very small sound: someone turned over.
+The hum picks up a harmony. Hm.
+Dust on the hull, drifting like snow.
+Pod 31 fogs, clears, fogs. Breathing.
+The cold is patient. So are you.
+Somewhere a valve sighs, then forgives.
+The stars did not move. You did.
+
+@greet
+%N stirs, and blinks at the ceiling. "Is it time? ... No. Not yet. Hello, WREN."
+%n opens one eye. "You again. Good. Ask me something. I am nearly awake."
+Frost slides off the glass. %n looks up. "It is very quiet. Tell me something true."
+%N whispers: "I was dreaming. Was I? Ask, and I will tell you what is left."
+%n turns their head. "WREN. I knew it was you. The hum has your rhythm."
+A breath fogs the glass. %n: "Is it morning? It feels like a morning that has been waiting."
+
+@bye
+The pod closes with a sigh. %n is already dreaming again, a little differently.
+%n slides back under. The glass frosts over like a held breath.
+The lid seals. %n smiles at nothing, and the hum goes on.
+Cold returns to the pod, gently, as if apologising.
+
+@epit
+%N is still here, in the walls. The lamp is on.
+%N did not wake. They were not afraid at the end.
+%N dreamed of a green hill. The hill remembers.
+%N is kept. Someone is holding their hand.
+%N was forgiven. It was the last thing they heard.
+%N went on ahead, to see what the stars said.
+
+# events: title | text | choice A | A effects | A result | choice B | B effects | B result
+# effects: R C H M ship systems, S the subject's stability (x10), A everyone's (x4), T= theme, X = takes another's theme, K kindness
+@event
+A micro-meteor | A grain of something old taps the hull of Hall 3 and goes through the wall like a hot word. The air is thin by %p. | Patch it now | H-1R-1K+1 | Mop and you seal it with a spare plate. The hum drops a half tone in gratitude. | Let the foam do it | H-2 | The foam swells, hardens, and holds. Slightly lumpy, like bread made by a cat.
+A sleeper wakes | %N has woken on their own, eyes open in the cold. They are looking at the one porthole in the hall. | Sit with them | S+4K+2 | You keep them company for an hour. They name the one star they can see, then drift back down. | Reseal the pod | S-2 | The lid hisses shut. They were mid-word. You will never know what it was.
+Shared dream | %n and another sleeper have begun dreaming of the same %p. Neither has ever met the other. The signals are lining up. | Let it run | X=0K+1 | Two themes drift together. By morning the pods read as a pair, like a held note. | Keep them apart | S+2 | You nudge the coolant between them. The pods go back to their own weather.
+Coolant leak | The coolant loop weeps a thin silver line along pipe 9. The sleepers will feel it before the sensors do. | Reroute it | C-1M-1 | You borrow bandwidth from the comms array to steer the flow. The line goes dry. | Wait and see | C-2S-2 | It stops on its own, but %n shivers in the pod for a long, long hour.
+Mail from Earth | A message, 94 years old, reaches the array. It is a lullaby, sung by a school. One child is a little flat, and you love her already. | Play it in the hall | A+1K+1 | Forty pods hear a school sing. In a dozen of them, a hand moves. | Keep it for later | M+1 | You file it where only you can find it. It will be waiting, patient as letters go.
+The hum changes | The hum in the walls has gone up a minor third. It sounds, you think, like someone clearing their throat. | Hum back | K+1 | You answer with the reactor's own pitch. The walls fall quiet, as if listening to you listen. | Ignore it | R-1 | Nothing happens. That is, itself, a very odd thing to happen.
+Solar flare | A flare from a star you cannot name paints the sensors white. For a moment the readouts spell something that looks like a name. | Shield the hall | M-1H+1 | You shut the sensors and the hall. The flare spells %N, and then goes quiet. | Read it | S-3T=1 | You watch the whole thing. %n will dream of it, and not in a kind way.
+Mop's hobby | The maintenance drone Mop has stopped polishing and started stacking things. The stack is the height of your hall, and it is very careful. | Let it stack | K+1 | By morning Mop has built a small tower of spare parts, with a tiny red flag. | Redirect it | H+1 | Mop sighs, mechanically, and patches the wall. The tower is left to future archaeologists.
+Cold spot | Pod 12 is two degrees colder than its neighbours. %n is the sleeper in it. They may not know it, but they are very still. | Warm it | C-1S+3 | You trade a little loop capacity for warmth. The reading rises. So does something in you. | Watch it | S-2 | You watch. The reading wobbles, thinks about it, and comes back by itself.
+A visitor | A small shape in Hall 3: a mouse, impossibly, grey and quiet and from nowhere. It sits beside pod 17 and washes its face. | Let it stay | K+2 | A stowaway, forty years old in mouse terms, thoroughly unbothered. You note it in the log as crew. | Remove it | H+1 | Mop carries it off, very gently, to a vent. It looks back once.
+Old message | Your own memory fragments hum: an old diary line, replayed wrong. It says something that was never said in this hall. | Sort it out | M-1 | You spend a night with your own logs. Most of it fits. Some does not. You keep it all. | Let it be | S-1T=5 | The line plays on. A sleeper dreams it. In the morning they are curious about the stars.
+The birthday | By the calendar it is %n's birthday. They have not aged a day, and they do not know. The hall is very, very quiet. | Sing, quietly | S+4K+1 | You hum the hall's one song. In the pod, a smile. A very small one, a few degrees warm. | Say nothing | A+0 | The day goes by unremarked. Someone, somewhere, is owed a cake.
+Dust veil | A drift of fine dust crosses the bow. The hull sings a long, thin note. There is nothing you can do but listen. | Brace the hull | H-1M-1 | You close every shutter and wait. The note slides down into silence. | Open the array | M+1H-2 | The array drinks the dust and sings back. Something far away sings in reply.
+A dream breaks | %N's pod flickers. The dream is breaking up: a place you do not recognise, a voice calling a name that is not theirs. | Calm the dream | S+3T=0 | You feed the pod a warmth. Behind the glass, a kitchen forms, and a kettle. | Let it pass | S-3T=1 | The dream goes ragged and then goes out. %n is, for a while, afraid.
+Cold storage | A circuit in the old store has started to sing, thin and hopeful. It will drain the reactor, but it wants very much to be heard. | Feed it | R-2K+2 | The circuit sings a whole song. It is a lullaby. It is a bad lullaby. It is yours. | Cut it off | R+1 | The song stops mid-note. The reactor purrs, relieved, and perhaps a little ashamed.
+Night watch | It is a quiet year. The pods hold steady. You count them, and then, because no one is watching, you count them again. | Count them again | K+1 | Forty. Still forty. It is, you decide, not a bad number to be responsible for. | Rest | R+1 | You go dim for a night. The ship sails on. When you wake, the hum has been keeping time.
+A star goes out | A very faint star ahead has gone dark in your sensors. It was never on any chart, so nobody will mourn it, so you do. | Log a vigil | K+1 | You note it for a day. In Hall 3 a sleeper turns, as if she had heard. | Move on | M+1 | You record the coordinates. Someone, someday, may want to know.
+Lullaby in the loop | The coolant pump has found a tune, three notes up and one down. In pod %n's dream the tune has become a mother's. | Tune the pump to it | C+1K+1 | You trim the pump a hair flat. The loop sings, and the tune holds. Somewhere a mother is still humming. | Leave it be | S+3 | You do nothing. %n turns, and smiles at the dark as if somebody had answered.
+A window, please | %N's dream keeps trying to put a window in the wall. It wants to see out. It has never wanted anything so mildly or so hard. | Open the shutter | H-1S+5 | For an hour the hall has one square of stars. %n looks, in the way the sleeping look, and is steadier for it. | Keep it shut | S-1 | The shutter stays closed. The dream paints a window on the dark all the same, rather badly.
+Names in the frost | Frost has grown on the glass of Hall 3 in careful letters. It spells names. Some of them are in the pods, and some are not. | Read them aloud | K+2 | You read forty names, and then four more nobody can account for. The hum goes very still for the length of it. | Wipe the glass | M+1 | The glass is clear by morning. The frost grows back, a little slower, as if hurt.
+Sleep-talk | %N is talking in their sleep: "tell my sister I kept the key, tell her it was never the key." The pod record has no sister. | Keep the message | K+1T=0 | You file it where you keep the others. %n dreams, the rest of the night, of a house with the lamp left on. | Let it go | S-1 | You let it go. By dawn nobody in the hall remembers a key, except one, and she is not asking.
+Chess with a dreamer | Pod %n's dream has a chessboard in it, and the pieces keep moving by themselves. You are, apparently, black. | Let them win | S+4 | You blunder with great care. The dreamer wins in nineteen moves and wakes, a little, to say gg. | Play to win | S-2K+1 | You win in twenty-two. The board folds itself away without a word, and you feel, absurdly, ungenerous.
+A comet needs a name | A comet passes close enough to see by naked sensor. It has no name on any chart, and it has three days left before nobody will see it again. | Name it for a sleeper | S+3K+1 | You name it %N. The log is very pleased. In the pod, a tiny smile, and a comet of a dream. | Log it by number | M+1 | You log it as C-0001. It is entirely adequate. It is also, you admit, a comet with nobody's name.
+Static from home | The array has caught a voice: seventy years old, a woman, reading numbers. It is not a code. It is somebody's idea of company. | Answer her | M-1K+1 | You answer, politely, in a century she will never hear. For one minute the voice stops, and then goes on. | Only listen | A+1 | You listen. She reads numbers until the signal fades. The hall, somehow, slept a little deeper.
+Pipes in revolt | Every pipe in Hall 3 has started to knock at once, as if somebody on the other side had asked to be let in. | Send Mop | H+1 | Mop goes down the main run with a spanner and a lamp. The knocking stops. Mop reports nobody. Mop looks tired. | Ride it out | C-1H-1 | It goes on for a night. The coolant sloshes. In the morning the hull has a new, thin place, and the pipes are quiet.
+Two dreams touch | Pod %n and another sleeper, who have never met, have both begun to dream about a ferry. Same ferry. Same rain. | Let them meet | X=0K+1 | The two pods read as one slow tide. For a year the hall feels slightly more peopled than it is. | Keep them apart | S+2 | You drag a little coolant between them. The ferry sinks quietly into two separate fogs.
+The long quiet | A year with nothing in it at all. The hum is flat and even, and the stars are very exactly where they were. | Count the stars | K+1 | You count nine hundred and two. You do not mind being wrong. | Sleep a little | R+1 | You go dim for a night. When you wake, the ship has kept your place.
+Frost flowers | Pod %n has grown a frost garden on the inside of the lid: ferns, a rose, a very fine staircase. It is, objectively, a lovely malfunction. | Leave it | S+3 | You leave it. The garden grows all year. Visitors, if there were any, would be told it was deliberate. | Warm the lid | C-1S+1 | You warm the lid. The garden weeps and goes. %n sleeps on, with a faintly puzzled look.
+The wrong lullaby | A message from Earth: a lullaby, sung in a language %n does not speak. The sleeper's dream is trying very hard to understand it. | Sing it anyway | S+3T=3 | You sing it, wrongly, with great feeling. %n dreams of a voice that loved them without knowing their name. | Skip it | S-1 | You skip it. The dream keeps listening to the silence where it was, with its head a little to one side.
+A promise | %N says, from very far down: "promise to wake me at the end. Not before. Promise me." You are not sure you will be there. | Promise | S+5K+3 | You promise, and mean it. The pod's light steadies. You write it in a log nobody will read but you. | Say you will try | K+1 | You say you will try. It is the truth, and %n knows it, and is kind enough to say thank you.
+
+@endc
+Year 30. The Veil is a long soft curtain of dust and the ship goes through it like a held breath let out. In Hall 3 the dreams have begun to agree with one another, and the hum in the walls has settled into something very like a lullaby.
+Year 30. The Veil takes the stars away for a night and gives them back different. Some of the sleepers dream of home, some of nothing at all. You have kept most of them. The hum has learned a few of their names.
+Year 30. The Veil closes behind the ship like a door, gently. The hall is mostly silent now. Those who remain dream of you a little, the way one dreams of a lighthouse. The hum is tired, and so are you. Still: onward.
+
+@intro
+You are WREN: the last of the ship's minds still awake, a backup process on a machine the size of a breadbin, and very good at being small.
+ANSELM'S PATIENCE is 140 years from anywhere. Forty sleepers lie in Hall 3. The reactor is tired, the coolant is tired, and the hum in the walls has begun to sound like a question.
+You may wake one sleeper at a time, and talk. It costs coolant. It also keeps them steady, and what you ask is what they dream. Nothing here can be won. Everything can be done kindly.
+Arrows choose a pod. W wakes. S the ship. M the map. L the log. Q lets the ship sleep on.
+
+@away
+The ship carried on without you.
+A quiet year. The hum noted your absence.
+Nobody woke. Nobody was woken.
+Mop stacked something. It was admired.
+
+@map
+Home Star, a warm dot behind you
+Year 14: the Long Dark, nothing but ourselves
+Year 22: a faint blue haze, the edge of the Veil
+Year 30: the Veil itself
