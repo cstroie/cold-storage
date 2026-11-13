@@ -241,7 +241,7 @@ ti1:    ld      a,(ti_i)
         cp      N_INTRO
         jr      nz,ti1
         ld      b,22
-        ld      c,29
+        ld      c,33            ; '[ press a key ]' centred
         call    gotoxy
         ld      hl,t_press
         call    puts

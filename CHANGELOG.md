@@ -2,6 +2,10 @@
 
 Releases carry `COLDSTOR.COM` and `COLDSTOR.DAT`; copy both onto a disk, side by side.
 
+## 1.0.1 (2026-11-13)
+
+- The title screen's "press a key" is centred under the name.
+
 ## 1.0.0 (2026-11-13)
 
 First release.
